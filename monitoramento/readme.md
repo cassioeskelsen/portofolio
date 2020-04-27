@@ -10,4 +10,4 @@ Tecnologias usadas: Python, PostgreSQL, Flask
 
 ![](monit3.png)
 
-![](monit5.png)
+![](monit5.jpg)
