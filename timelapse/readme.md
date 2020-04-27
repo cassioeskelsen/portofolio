@@ -13,5 +13,29 @@ Python (tanto no servidor quanto nas estações remotas)
 Flask
 Amazon EC2 e S3
 
-[![Exemplo de Video](timelapse7.png)](https://www.youtube.com/watch?v=TQ8KsPkZxec "Exemplo de Video")
+Exemplo de vídeo gerado:
+
+[![](http://img.youtube.com/vi/TQ8KsPkZxec/0.jpg)](http://www.youtube.com/watch?v=TQ8KsPkZxec "Exemplo de vídeo gerado")
+
+
+![](timelapse1.png)
+
+
+![](timelapse2.png)
+
+
+![](timelapse3.png)
+
+
+![](timelapse4.png)
+
+
+![](timelapse5.png)
+
+
+![](timelapse6.png)
+
+
+![](timelapse7.png)
+
 
