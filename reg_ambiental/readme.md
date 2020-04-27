@@ -9,5 +9,9 @@ Ferramentas utilizadas:
 - Shapely   
 
 ![](resg_ambiental1.png)
+
+
 ![](resg_ambiental2.png)
+
+
 ![](resg_ambiental3.png)
