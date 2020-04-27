@@ -13,5 +13,5 @@ Python (tanto no servidor quanto nas estações remotas)
 Flask
 Amazon EC2 e S3
 
+[![Exemplo de Video](timelapse7.png)](https://www.youtube.com/watch?v=TQ8KsPkZxec "Exemplo de Video")
 
-[](https://youtu.be/TQ8KsPkZxec)
